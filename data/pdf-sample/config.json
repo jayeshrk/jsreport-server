@@ -1,0 +1,17 @@
+{
+    "shortid": "QCablFv4ut",
+    "name": "pdf-sample",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1632555317637
+    },
+    "modificationDate": {
+        "$$date": 1632555317637
+    },
+    "_id": "ykjCjWxWSwQ8fIT4",
+    "$entitySet": "templates"
+}
